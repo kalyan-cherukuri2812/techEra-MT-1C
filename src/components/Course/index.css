@@ -1,0 +1,28 @@
+.course-bg-container {
+  background-color: white;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+.course-card {
+  display: flex;
+  align-items: center;
+  height: 400px;
+
+  margin-top: 100px;
+}
+.cou-img {
+  height: 100%;
+  width: 100%;
+}
+.n-d-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: roboto;
+  margin-left: 20px;
+}
+
+.cou-d {
+  color: #64748b;
+  font-size: 18px;
+}
